@@ -4,11 +4,6 @@ DataAccess>>InMemory kullanıldı.
 
 EntityFramework yok.
 
-Sadece 'Car' nesnesi ve  onunla ilgili işlemler var.
-
-  Add, Delete, Update, 
+Sadece 'Car' nesnesi ve  onunla ilgili işlemler var. -> Add, Delete, Update, GetAll, GetById
   
-  List<Car> 
-  
-  Car GetById(int carId);
-
+ 
