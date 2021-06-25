@@ -4,6 +4,5 @@ DataAccess>>InMemory kullanıldı.
 
 EntityFramework yok.
 
-Sadece 'Car' nesnesi ve  onunla ilgili işlemler var. -> Add, Delete, Update, GetAll, GetById
-  
+Sadece 'Car' nesnesi ve temel CRUD fonksiyonları oluşturuldu.  
  
